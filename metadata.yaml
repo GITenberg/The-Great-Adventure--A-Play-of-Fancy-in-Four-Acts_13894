@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/859
     wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13894#The-Great-Adventure--A-Play-of-Fancy-in-Four-Acts
 gutenberg_issued: '2004-10-29'
 gutenberg_type: Text
 identifiers:
